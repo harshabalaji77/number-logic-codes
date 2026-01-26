@@ -17,7 +17,5 @@ public class TribonacciSeries {
             b = c;
             c = next;
         }
-
 	}
-
 }
